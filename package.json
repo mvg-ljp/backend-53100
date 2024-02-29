@@ -1,0 +1,25 @@
+{
+  "name": "53100",
+  "version": "1.0.0",
+  "description": "backend-53100",
+  "main": "index.js",
+  "scripts": {
+    "test": "lucas juncos perez"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvg-ljp/backend-53100.git"
+  },
+  "author": "lucas juncos perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvg-ljp/backend-53100/issues"
+  },
+  "homepage": "https://github.com/mvg-ljp/backend-53100#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.3",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.1"
+  }
+}
