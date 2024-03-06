@@ -1,44 +1,47 @@
 [
 	{
-        "title": "Product 1",
-        "description": "Description of product 1",
-        "code": "P001",
-        "price": 350.99,
-        "status": false,
-        "stock": 45,
-        "category": "Category B",
-        "thumbnails": [
-            "image1.jpg",
-            "image2.jpg"
-        ],
-        "id": "99d15b5b-d3b7-497e-a45f-7ed734d308a5"
-    },
-    {
-		"title": "Product 2",
-		"description": "Description of product 2",
-		"code": "P002",
-		"price": 350.99,
-		"status": false,
-		"stock": 45,
-		"category": "Category B",
-		"thumbnails": [
-			"image3.jpg",
-			"image4.jpg"
-		],
-		"id": "c9dbd96d-e790-45e9-8ec6-c53595e8723d"
+	  "title": "Smartphone",
+	  "description": "Latest model with advanced features.",
+	  "code": "SP123",
+	  "price": "599.99",
+	  "stock": "50",
+	  "category": "electronics",
+	  "id": 0
 	},
 	{
-		"title": "Product 3",
-		"description": "Description of product 3",
-		"code": "P003",
-		"price": 350.99,
-		"status": false,
-		"stock": 45,
-		"category": "Category B",
-		"thumbnails": [
-			"image5.jpg",
-			"image6.jpg"
-		],
-		"id": "6050c833-ada4-432f-8312-eb724df5260b"
+	  "title": "Laptop",
+	  "description": "Powerful laptop for work and entertainment.",
+	  "code": "LT456",
+	  "price": "1099.99",
+	  "stock": "20",
+	  "category": "electronics",
+	  "id": 1
+	},
+	{
+	  "title": "Headphones",
+	  "description": "High-quality noise-canceling headphones.",
+	  "code": "HD789",
+	  "price": "199.99",
+	  "stock": "30",
+	  "category": "electronics",
+	  "id": 2
+	},
+	{
+	  "title": "Wireless Mouse",
+	  "description": "Ergonomic design for comfortable use.",
+	  "code": "WM101",
+	  "price": "29.99",
+	  "stock": "100",
+	  "category": "electronics",
+	  "id": 3
+	},
+	{
+	  "title": "Smart TV",
+	  "description": "4K Ultra HD Smart TV with built-in streaming apps.",
+	  "code": "TV567",
+	  "price": "799.99",
+	  "stock": "10",
+	  "category": "electronics",
+	  "id": 4
 	}
-]
+  ]
